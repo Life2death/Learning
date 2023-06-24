@@ -1,0 +1,4 @@
+print(" hello user good evening ")
+City = input("which city did you grew into")
+pet = input ("which pet do u like ")
+print (City + pet)
