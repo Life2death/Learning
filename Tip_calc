@@ -10,4 +10,4 @@ Final_bill = Tip_amt + Total_bill
 amt_per_person = round(Final_bill /Bill_split)
 #print (amt_per_person)
 
-print (f"Total bill for each person --{amt_per_person}")
+ 
